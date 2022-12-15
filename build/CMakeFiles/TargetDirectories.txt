@@ -1,0 +1,3 @@
+/mnt/c/users/andreea/desktop/Lucrarea6/build/CMakeFiles/Lucrarea6.dir
+/mnt/c/users/andreea/desktop/Lucrarea6/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/andreea/desktop/Lucrarea6/build/CMakeFiles/rebuild_cache.dir
